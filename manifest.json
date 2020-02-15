@@ -1,0 +1,38 @@
+{
+    "manifest_version": 2,
+    "name": "Extesion prevent send messenger",
+    "version": "1.0",
+    "description": "Extesion prevent send messenger",
+    "icons": {
+        "16": "video-player.png",
+        "48": "video-player.png",
+        "128": "video-player.png"
+    },
+    "author": "nghiahsgs",
+    "content_scripts": [
+        {
+            "matches": [
+                // "https://www.facebook.com/messaging/send/"
+                "https://www.facebook.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "background": {
+        "scripts": ["background.js"]
+        // "persistent":false
+        
+    },
+    //,
+    // "permissions": [
+    //     "alarms"
+    // ]
+    // ,
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>"
+    ]
+}
