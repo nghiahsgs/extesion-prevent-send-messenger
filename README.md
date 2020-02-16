@@ -7,7 +7,7 @@ extesion prevent send messenger
 <img src="https://i.imgur.com/q6oq3k5.png"/>
 ### Step 3: press button shift left on your keyboard to active mode "fake crush", in this mode, your message is only visible with you, your crush can't see it, because the fucntion of this extension is block all message which you attempt send
 
-Caution: its version is beta so i advice u should use this extension carefully, u can test this and delete afterward :v
+## Caution: its version is beta so i advice u should use this extension carefully, u can test this and delete afterward :v
 
-video demo
+## video demo
 https://www.youtube.com/watch?v=AXZcUmPpDyw&fbclid=IwAR2amAKl7CSpxRLRizQn_-TVpO0cLYVqzY8cX5uAk5kN5DwAxyX3ldaWxK4
